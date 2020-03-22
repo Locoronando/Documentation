@@ -13,4 +13,4 @@ Eine genauere Beschreibung des Projekts kann man unter [DevPost](https://devpost
 Auch wir wollen mit diesem Projekt die Open-Source-Community stärken und veröffentlichen daher unseren Code unter [GPL](https://www.gnu.org/licenses/gpl-3.0.de.html) nach dem Motto "Copyleft".
 
 ## Wiki
-Im [Wiki](https://github.com/Locoronando/Documentation/wiki) sind Schnittstellen vom Backend dokumentiert. Bisher sind noch nicht alle dokumentiert. 
+Im [Wiki](https://github.com/Locoronando/Documentation/wiki) sind Schnittstellen vom Backend dokumentiert.
